@@ -14,8 +14,8 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> </a> <a href="https://www.kali.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1280px-Kali_Linux_2.0_wordmark.svg.png" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwardsmith&theme=react&show_icons=true&locale=en&layout=compact" alt="jwardsmith" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwardsmith&show_icons=true&locale=en&layout=compact" alt="jwardsmith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwardsmith&theme=react&show_icons=true&locale=en" alt="jwardsmith" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwardsmith&show_icons=true&locale=en" alt="jwardsmith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwardsmith&theme=black-ice" alt="jwardsmith" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwardsmith" alt="jwardsmith" /></p>
