@@ -12,5 +12,7 @@
 <p align="left"> </a> <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwardsmith&show_icons=true&locale=en&layout=compact" alt="jwardsmith"/></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jwardsmith&show_icons=true&locale=en" alt="jwardsmith" /><br></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jwardsmith" alt="jwardsmith" /></p>
