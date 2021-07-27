@@ -15,4 +15,5 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jwardsmith&show_icons=true&locale=en" alt="jwardsmith" /></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jwardsmith" alt="jwardsmith" /></p>
