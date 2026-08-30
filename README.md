@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Featured Projects
 
 | Repo | What it is |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧰 Languages & tools
+### 🧰 Languages & Tools
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" alt="PowerShell" width="40" height="40"/></a>
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub Stats
 
 <p align="center">
   <picture>
