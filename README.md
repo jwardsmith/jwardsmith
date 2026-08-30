@@ -15,7 +15,7 @@
 <a href="https://github.com/stats-organization/github-stats-extended">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=jwardsmith&show_icons=true&include_all_commits=true&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/stats-organization/github-stats-extended">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=jwardsmith&layout=compact&langs_count=8&card_width=455&theme=github_dark" />
 </a>
 
